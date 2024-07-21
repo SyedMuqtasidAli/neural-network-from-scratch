@@ -1,18 +1,18 @@
-# Build a Neural Network from Scratch
+# 🤖 Build a Neural Network from Scratch
 
 ## About
 In the last lesson, we learned how to use gradient descent to train a linear regression algorithm. In this lesson, we'll build on this to make a multi-layer neural network.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Socials](#socials)
+## 📚 Table of Contents
+- [⚙️ Installation](#installation)
+- [🚀 Usage](#usage)
+- [📊 Examples](#examples)
+- [💡 Contributing](#contributing)
+- [📜 License](#license)
+- [📬 Contact](#contact)
+- [🌐 Socials](#socials)
 
-## Installation
+## ⚙️ Installation
 
 1. Clone the repository:
     ```sh
@@ -27,7 +27,7 @@ In the last lesson, we learned how to use gradient descent to train a linear reg
     pip install -r requirements.txt
     ```
 
-## Usage
+## 🚀 Usage
 
 Open the Jupyter Notebook file `build_neural_network_from_scratch.ipynb` to follow along with the lesson and build the neural network.
 
@@ -37,7 +37,7 @@ Open the Jupyter Notebook file `build_neural_network_from_scratch.ipynb` to foll
     ```
 2. Open the `build_neural_network_from_scratch.ipynb` file and execute the cells to build and train the neural network.
 
-## Examples
+## 📊 Examples
 
 Here are a few examples of what you can do with this project:
 
@@ -50,7 +50,7 @@ Here are a few examples of what you can do with this project:
 3. **Evaluating Performance:**
     - Evaluate the performance of your neural network using various metrics such as accuracy.
 
-## Contributing
+## 💡 Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
@@ -60,18 +60,18 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 4. Push to the branch (`git push origin feature-branch`)
 5. Create a new Pull Request
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
+## 📬 Contact
 
 For any questions or suggestions, feel free to reach out:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/syed-muqtasid-ali-91a0a623a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey)](https://github.com/SyedMuqtasidAli)
 
-## Socials
+## 🌐 Socials
 
 Stay connected and follow for more updates:
 
@@ -80,4 +80,4 @@ Stay connected and follow for more updates:
 
 ---
 
-Happy
+Happy Coding! 🎉🚀
