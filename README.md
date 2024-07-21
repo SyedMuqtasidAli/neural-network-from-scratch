@@ -16,7 +16,7 @@ In the last lesson, we learned how to use gradient descent to train a linear reg
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/SyedMuqtasidAli/neural-network-from-scratch.git
+    git clone https://github.com/syed-muqtasid-ali/neural-network-from-scratch.git
     ```
 2. Navigate to the project directory:
     ```sh
